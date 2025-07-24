@@ -1,2 +1,2 @@
 # kalkulator
-https://morapasca.github.io/kalkulator/
+https://morapasca.github.io/Calculator/
